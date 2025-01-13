@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate learner, exploring different prog
 
 ### 🌟 About Me:
 - 📚 *Hobbies:*  
-  I enjoy reading *comics, **manga, and **self-help books* to stay inspired and motivated.  
+  I enjoy reading *comics*, *manga*, and *self-help books* to stay inspired and motivated.  
 
 - 🤫 *A Little About Me:*  
   I'm an *introvert* and emotionally unavailable, but I thrive on continuous learning and growth in the tech space.  
@@ -39,4 +39,4 @@ Feel free to reach out if you'd like to collaborate or chat about tech!
 ---
 
 ### 🎨 Fun Fact:
-- I love combining creativity with technology, experimenting with *animations* and *interactive design. You'll often see me draw inspiration from **anime* in my projects!
+- I love combining creativity with technology, experimenting with *animations* and *interactive design*. You'll often see me draw inspiration from *anime* in my projects!
