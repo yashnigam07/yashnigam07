@@ -1,12 +1,17 @@
-- 👋 Hi, I’m @yashnigam07
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm Yash Nigam!  
 
-<!---
-yashnigam07/yashnigam07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🚀 Exploring the World of Programming  
+I'm currently delving into different programming languages and their applications, focusing on:  
+- Frontend: *HTML, CSS, JavaScript, Tailwind CSS, React*  
+- Backend: *Node.js*  
+- Cross-Platform Development: *Flutter*  
+
+### 🌟 What I’m About  
+- 📚 I enjoy reading comics, manga, and self-help books.  
+- 🤫 I'm an introvert and emotionally unavailable but passionate about continuous learning.  
+
+### 🎯 Goals  
+I've explored multiple technologies and continuously seek new challenges and opportunities to innovate.  
+
+### 💼 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yashnigam04)
